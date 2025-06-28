@@ -1,0 +1,4 @@
+# Minimal requirements for basic functionality
+fastapi==0.110.3
+uvicorn==0.27.1
+python-multipart==0.0.9 
